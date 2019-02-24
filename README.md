@@ -4,7 +4,7 @@ Simple scripts that create visibility on how much work is in-progress based on o
 
 Moving to a faster release cadance requires product owners to define features in smaller increments, otherwise yor faster release cadance is not effective.
 
-By measuring how long branches have been open with work that is not integrated into the mainline branch, we can create good visibility on the above.
+By measuring how long branches have been open with work that is not integrated into the mainline branch, we can create good visibility on the above and do some naming and shaming ;-).
 
 # Example usage.
 
